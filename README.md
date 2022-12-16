@@ -1,5 +1,5 @@
 # Housing-Price-Prediction
-Motivation:
+## Motivation:
 Since I am aiming to become a data/business analyst, I think the best project for me would be something that helps me get familiarize with the data processing/visualization process as well as some ML application. I found out this Kaggle competition on California housing price Prediction(a classic one).
 Because it is a well-known dataset and have been practiced by many others, I was be able to get help by referencing others ideas and codes to further guide me to complete this project. I then submit my results and it came out pretty great.
 Exploratory Data Analysis:
